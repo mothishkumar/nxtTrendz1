@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.home-content {
+  display: flex;
+  flex-direction: column;
+}
+.home-heading {
+  color: black;
+  font-size: 60px;
+}
+.home-description {
+  color: black;
+  font-size: 30px;
+}
+.shop-now-button {
+  color: white;
+  background-color: #0b69ff;
+  height: 40px;
+  width: 150px;
+  border-color: transparent;
+  border-radius: 7px;
+  margin-top: 15px;
+  margin-right: 150px;
+}
+.home-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 40px;
+}
+.home-desktop-img {
+  margin-left: 140px;
+}

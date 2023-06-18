@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.nav-container {
+  padding: 10px;
+  margin-left: 40px;
+}
+
+.nav-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin-left: 500px;
+}
+.website-logo {
+  height: 70px;
+  width: 200px;
+  margin-top: 15px;
+}
+.nav-link {
+  color: #0b69ff;
+  font-family: Roboto;
+  font-size: 20px;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+.logout-desktop-btn {
+  color: white;
+  background-color: #0b69ff;
+  height: 40px;
+  width: 100px;
+  border-color: transparent;
+  border-radius: 7px;
+  margin-top: 15px;
+  margin-right: 150px;
+}

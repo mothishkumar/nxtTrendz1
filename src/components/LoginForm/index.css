@@ -1,0 +1,66 @@
+/* Write your CSS code here */
+.loginPageImage {
+  height: 500px;
+  width: 700px;
+}
+.login-website-logo-desktop-image {
+  height: 70px;
+  width: 180px;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+.loginFormContainer {
+  height: 350px;
+  width: 350px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.loginMainContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.login-button {
+  background-color: #0b69ff;
+  color: white;
+  height: 35px;
+  width: 250px;
+  margin-left: 50px;
+  border-radius: 5px;
+  border-color: transparent;
+}
+.input-container {
+  margin-left: 50px;
+  margin-bottom: 15px;
+}
+.input-label {
+  color: black;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.username-input-filed {
+  background-color: #d7dfe9;
+  width: 250px;
+  height: 35px;
+  border-color: transparent;
+  padding: 10px;
+}
+.password-input-filed {
+  background-color: #d7dfe9;
+  width: 250px;
+  height: 35px;
+  border-color: transparent;
+  padding: 10px;
+}
+.error-message {
+  align-self: start;
+  font-size: 12px;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  line-height: 16px;
+  color: #ff0b37;
+}
